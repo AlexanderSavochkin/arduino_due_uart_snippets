@@ -1,0 +1,11 @@
+http://electronix.ru/forum/lofiversion/index.php/t67388.html
+http://forum.arduino.cc/index.php?topic=277031.0
+http://asf.atmel.com/docs/3.0.1/get_started.html
+
+-=SUB USART=-
+http://www.gaw.ru/html.cgi/txt/app/Atmel/micros/usb/rs232_usb.htm
+http://asf.atmel.com/docs/latest/common.services.usb.class.cdc.device.example.sam4s_ek/html/index.html
+
+CDC
+http://asf.atmel.com/docs/latest/uc3l/html/udi_cdc_use_case_composite.html
+http://asf.atmel.com/docs/latest/uc3l/html/udi_cdc_quickstart.html
